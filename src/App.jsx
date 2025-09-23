@@ -166,7 +166,7 @@ function App() {
             transition={{ duration: 0.8 }}
             className="space-y-8"
           >
-            <div className="floating-animation">
+            <div className="mt-[100px] floating-animation">
               <img  
                 className="w-48 h-48 rounded-full mx-auto border-4 border-purple-400 pulse-glow object-cover"
                 alt="CEO of TheDhakaXpress"
