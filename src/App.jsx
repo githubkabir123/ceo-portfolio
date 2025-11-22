@@ -106,7 +106,7 @@ function App() {
               animate={{ opacity: 1, x: 0 }}
               className="text-2xl font-bold gradient-text"
             >
-              TheDhakaXpress CEO
+              XyzCompanyCEO
             </motion.div>
             
             {/* Desktop Menu */}
@@ -179,7 +179,7 @@ function App() {
                 <span className="block gradient-text typing-animation">in Dhaka</span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-                CEO & Visionary behind TheDhakaXpress - Transforming how Dhaka stays informed through innovative digital journalism
+                CEO & Visionary behind XyzCompany- Transforming how Dhaka stays informed through innovative digital journalism
               </p>
             </div>
 
@@ -269,7 +269,7 @@ function App() {
               <div className="relative">
                 <img  
                   className="rounded-2xl shadow-2xl w-full object-cover"
-                  alt="CEO working at TheDhakaXpress office"
+                  alt="CEO working at XyzCompanyoffice"
                  src="https://images.unsplash.com/photo-1574311382329-80bcc540bd52" />
                 <div className="absolute inset-0 bg-gradient-to-t from-purple-900/50 to-transparent rounded-2xl"></div>
               </div>
@@ -319,7 +319,7 @@ function App() {
               {
                 year: '2022',
                 title: 'Startup of the Year',
-                description: 'TheDhakaXpress recognized as fastest-growing news platform',
+                description: 'XyzCompanyrecognized as fastest-growing news platform',
                 icon: Building
               },
               {
@@ -446,7 +446,7 @@ function App() {
                     icon: MapPin,
                     title: 'Office',
                     content: 'Dhaka, Bangladesh',
-                    description: 'TheDhakaXpress Headquarters'
+                    description: 'XyzCompanyHeadquarters'
                   }
                 ].map(({ icon: Icon, title, content, description }) => (
                   <div key={title} className="flex items-start space-x-4">
@@ -537,7 +537,7 @@ function App() {
       <footer className="bg-slate-900 border-t border-slate-800 py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <div className="text-2xl font-bold gradient-text mb-4">TheDhakaXpress CEO</div>
+            <div className="text-2xl font-bold gradient-text mb-4">XyzCompanyCEO</div>
             <p className="text-gray-400 mb-6">
               Leading digital journalism innovation in Dhaka, Bangladesh
             </p>
